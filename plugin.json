@@ -1,0 +1,16 @@
+{
+  "name": "my-awesome-copilot",
+  "description": "Agentic AI assistant plugin collecting tools, instructions, skills, and integrations for coding assistant like GitHub Copilot CLI",
+  "version": "0.0.1",
+  "author": {
+    "name": "Your Name",
+    "email": "my-mail@example.com"
+  },
+  "license": "MIT",
+  "keywords": ["ai-assistant", "agentic", "copilot-cli", "mcp", "skills", "awesome-copilot"],
+  "agents": "agents/",
+  "skills": "skills/",
+  "commands": "prompts/",
+  "hooks": "hooks/hooks.json",
+  "mcpServers": ".mcp.json"
+}
